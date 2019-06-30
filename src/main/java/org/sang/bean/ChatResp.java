@@ -4,7 +4,7 @@ package org.sang.bean;
  * Created by sang on 2018/1/29.
  */
 public class ChatResp {
-    //ce
+    //ce是
     private String msg;
     private String from;
 
